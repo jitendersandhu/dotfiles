@@ -96,7 +96,7 @@ brew install dark-mode
 # brew install rename
 # brew install rhino
 brew install speedtest_cli
-brew install testssl
+#brew install testssl
 # brew install ssh-copy-id
 brew install tree
 brew install vbindiff
